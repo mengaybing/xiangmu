@@ -5,4 +5,5 @@ package com.demo.entity;
  */
 public class mmmm {
     private Integer id;
+    private Double age;
 }
